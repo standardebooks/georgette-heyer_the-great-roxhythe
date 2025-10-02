@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/georgette-heyer/the-great-roxhythe</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-10-02T17:10:37Z</dc:date>
+		<meta property="dcterms:modified">2025-10-02T17:10:37Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,16 +45,16 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A Restoration courtier sacrifices his fortune, reputation, and chance at personal happiness to serve his king as a secret spy.</dc:description>
+		<dc:description id="description">A Restoration-era courtier sacrifices his fortune, reputation, and chance at personal happiness to serve his king as a secret spy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Set in the glittering but treacherous court of Charles II, the brilliant and wealthy Marquis of Roxhythe wears the mask of a cynical, self-serving courtier, allowing even his friends to believe he is cold and disloyal. Yet this public facade is his greatest sacrifice; in secret, he drains his own fortune and stains his own name to operate as the king’s most trusted spy and protector. The story is a tragedy of devotion, leaving Roxhythe completely alone, his immense loyalty and suffering a silent burden known only to the sovereign he served so completely.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt; the Great Roxhythe&lt;/i&gt; is set in the glittering but treacherous court of Charles II, in which the brilliant and wealthy Marquis of Roxhythe wears the mask of a cynical, self-serving courtier, allowing even his friends to believe he is cold and disloyal. Yet this public façade is his greatest sacrifice; in secret, he drains his own fortune and stains his own name to operate as the king’s most trusted spy and protector. The story is a tragedy of devotion, leaving Roxhythe completely alone, his immense loyalty and suffering a silent burden known only to the sovereign he serves so completely.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76816</dc:source>
 		<dc:source>https://archive.org/details/greatroxhythe00heye</dc:source>
 		<meta property="se:production-notes">The back side of the title page for Book 1 appears in the page scans.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">115171</meta>
+		<meta property="se:reading-ease.flesch">79.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Great_Roxhythe</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/georgette-heyer_the-great-roxhythe</meta>
 		<dc:creator id="author">Georgette Heyer</dc:creator>
@@ -84,6 +84,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
