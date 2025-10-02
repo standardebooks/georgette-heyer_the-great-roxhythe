@@ -47,7 +47,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A Restoration-era courtier sacrifices his fortune, reputation, and chance at personal happiness to serve his king as a secret spy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt; the Great Roxhythe&lt;/i&gt; is set in the glittering but treacherous court of Charles II, in which the brilliant and wealthy Marquis of Roxhythe wears the mask of a cynical, self-serving courtier, allowing even his friends to believe he is cold and disloyal. Yet this public façade is his greatest sacrifice; in secret, he drains his own fortune and stains his own name to operate as the king’s most trusted spy and protector. The story is a tragedy of devotion, leaving Roxhythe completely alone, his immense loyalty and suffering a silent burden known only to the sovereign he serves so completely.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Great Roxhythe&lt;/i&gt; is set in the glittering but treacherous court of Charles II, in which the brilliant and wealthy Marquis of Roxhythe wears the mask of a cynical, self-serving courtier, allowing even his friends to believe he is cold and disloyal. Yet this public façade is his greatest sacrifice; in secret, he drains his own fortune and stains his own name to operate as the king’s most trusted spy and protector. The story is a tragedy of devotion, leaving Roxhythe completely alone, his immense loyalty and suffering a silent burden known only to the sovereign he serves so completely.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76816</dc:source>
