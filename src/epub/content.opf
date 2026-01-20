@@ -53,7 +53,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/76816</dc:source>
 		<dc:source>https://archive.org/details/greatroxhythe00heye</dc:source>
 		<meta property="se:production-notes">The back side of the title page for Book 1 appears in the page scans.</meta>
-		<meta property="se:word-count">115171</meta>
+		<meta property="se:word-count">113977</meta>
 		<meta property="se:reading-ease.flesch">79.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Great_Roxhythe</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/georgette-heyer_the-great-roxhythe</meta>
