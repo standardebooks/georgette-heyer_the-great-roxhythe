@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/georgette-heyer/the-great-roxhythe</dc:identifier>
 		<dc:date>2025-10-02T17:10:37Z</dc:date>
@@ -46,10 +46,10 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A Restoration-era courtier sacrifices his fortune, reputation, and chance at personal happiness to serve his king as a secret spy.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A Restoration-era courtier sacrifices his fortune, reputation, and chance at personal happiness to serve his king as a secret spy.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Great Roxhythe&lt;/i&gt; is set in the glittering but treacherous court of Charles II, in which the brilliant and wealthy Marquis of Roxhythe wears the mask of a cynical, self-serving courtier, allowing even his friends to believe he is cold and disloyal. Yet this public façade is his greatest sacrifice; in secret, he drains his own fortune and stains his own name to operate as the king’s most trusted spy and protector. The story is a tragedy of devotion, leaving Roxhythe completely alone, his immense loyalty and suffering a silent burden known only to the sovereign he serves so completely.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76816</dc:source>
 		<dc:source>https://archive.org/details/greatroxhythe00heye</dc:source>
