@@ -46,7 +46,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A Restoration-era courtier sacrifices his fortune, reputation, and chance at personal happiness to serve his king as a secret spy.</dc:abstract>
+		<meta property="schema:abstract">A Restoration-era courtier sacrifices his fortune, reputation, and chance at personal happiness to serve his king as a secret spy.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Great Roxhythe&lt;/i&gt; is set in the glittering but treacherous court of Charles II, in which the brilliant and wealthy Marquis of Roxhythe wears the mask of a cynical, self-serving courtier, allowing even his friends to believe he is cold and disloyal. Yet this public façade is his greatest sacrifice; in secret, he drains his own fortune and stains his own name to operate as the king’s most trusted spy and protector. The story is a tragedy of devotion, leaving Roxhythe completely alone, his immense loyalty and suffering a silent burden known only to the sovereign he serves so completely.&lt;/p&gt;
 		</dc:description>
